@@ -31,19 +31,36 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 - *2025.06*: &nbsp;🎉🎉 I presented a paper at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
 # Publications 
-<!-- === Paper 4 === -->
+<!-- === Paper 5 === -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RA-L 2025</div>
+      <!-- <div class="badge">RA-L 2025</div> -->
       <!-- <img src='images/nesy2025_craft.png' alt="craft-paper" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding](https://arxiv.org/abs/2507.14426)**  
+**[Generalized Event Partonomy Inference with Structured Hierarchical Predictive Learning]()**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
+Under review, 2025.
+</div>
+</div>
+
+
+<!-- === Paper 4 === -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">RA-L 2025</div> -->
+      <!-- <img src='images/nesy2025_craft.png' alt="craft-paper" width="100%"> -->
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding]()**  
+**Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
+Under review, Aug. 2025.
 </div>
 </div>
 
@@ -58,9 +75,9 @@ Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[CRAFT: A Neuro-Symbolic Reasoning Framework for Visual Functional Affordance Grounding]()**  
+**[CRAFT: A Neuro-Symbolic Reasoning Framework for Visual Functional Affordance Grounding](https://arxiv.org/abs/2507.14426)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review at IEEE RA-L 2025.
+Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
 </div>
 </div>
 
