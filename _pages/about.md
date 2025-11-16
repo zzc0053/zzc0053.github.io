@@ -129,12 +129,16 @@ Weijie Wu, Fang Huang, Yidi Kao, **Zhou Chen**, Qi Wu
 
 
 # Work
+- **Graduate Research Assistant**, Auburn, AL, USA  
+  *Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab*  
+  *May. 2024 – Present*
+
 - **Hualu Zhida Technology Co., Ltd.**, Dalian, China  
   *Junior Software Engineer, Embedded Department – Android Development Group*  
-  *Aug 2021 – Jun 2022*
+  *Aug. 2021 – Jun. 2022*
 
 # Internships
-- *2020.09.07 - 2021.01.03*, ZTE Corporation, China.
+- *September 7, 2020 – January 3, 2021*, ZTE Corporation, China.
 
 
 # Collaborators
