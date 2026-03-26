@@ -41,7 +41,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[Generalized Event Partonomy Inference with Structured Hierarchical Predictive Learning]()**  
+**[Generalized Event Partonomy Inference with Structured Hierarchical Predictive Learning](https://arxiv.org/abs/2512.04219)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
 Under review, 2025.
 </div>
@@ -58,7 +58,7 @@ Under review, 2025.
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding]()**  
+**[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding](https://arxiv.org/abs/2512.04231)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
 Under review, Aug. 2025.
 </div>
