@@ -53,7 +53,7 @@ Under review, 2025.
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">RA-L 2025</div> -->
-      <!-- <img src='images/CRAFTE_Arch.png' alt="crafte-paper" width="100%"> -->
+      <img src='images/CRAFTE_Arch.png' alt="crafte-paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
