@@ -43,7 +43,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 
 **[Generalized Event Partonomy Inference with Structured Hierarchical Predictive Learning](https://arxiv.org/abs/2512.04219)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review, 2025.
+Under review, 2026.
 </div>
 </div>
 
