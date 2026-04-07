@@ -122,7 +122,7 @@ Weijie Wu, Fang Huang, Yidi Kao, **Zhou Chen**, Qi Wu
     preload="metadata"
     width="100%"
     style="max-width: 900px; border-radius: 8px;">
-    <source src="assets/ease-demo.mp4" type="video/mp4">
+    <source src="assets/EASE_Supplement_Video_With_Audio.mp4" type="video/mp4">
     Your browser does not support HTML5 video.
   </video>
 </section>
