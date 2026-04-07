@@ -43,7 +43,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 
 **[Generalized Event Partonomy Inference with Structured Hierarchical Predictive Learning](https://arxiv.org/abs/2512.04219)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review, 2026.
+Under review, Mar. 2026.
 </div>
 </div>
 
@@ -60,7 +60,7 @@ Under review, 2026.
 
 **[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding](https://arxiv.org/abs/2512.04231)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review, Aug. 2025.
+Under review, Dec. 2025.
 </div>
 </div>
 
@@ -119,6 +119,7 @@ Weijie Wu, Fang Huang, Yidi Kao, **Zhou Chen**, Qi Wu
   <h2>EASE Demo</h2>
   <video
     controls
+    muted
     preload="metadata"
     width="100%"
     style="max-width: 900px; border-radius: 8px;">
