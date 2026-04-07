@@ -114,6 +114,19 @@ Weijie Wu, Fang Huang, Yidi Kao, **Zhou Chen**, Qi Wu
 </div>
 </div>
 
+# Videos
+<section>
+  <h2>EASE Demo</h2>
+  <video
+    controls
+    preload="metadata"
+    width="100%"
+    style="max-width: 900px; border-radius: 8px;">
+    <source src="assets/ease-demo.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+</section>
+
 # Workshop
 - **Learning to Perceive and Act: Active Event Understanding via Predictive Free Energy Minimization**  
   *Zhou Chen, Sanjoy Kundu, Harsimran Bhaweja, Sathyanarayanan N. Aakur*  
