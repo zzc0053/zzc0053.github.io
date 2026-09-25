@@ -65,6 +65,22 @@ Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
 </div>
 </div>
 
+<!-- === Paper 6 === -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">RA-L 2025</div> -->
+      <img src='images/FUSE_Arch.pdf' alt="parse-paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[FUSE: Active Functional Affordance Grounding through Adaptive Semantic-Geometric Evidence Acquisition](https://arxiv.org/abs/2608.12683)**  
+**Zhou Chen**, Sathyanarayanan N. Aakur  
+Under review
+</div>
+</div>
+
 <!-- === Paper 5 === -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -77,7 +93,7 @@ Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
 
 **[Generalized Event Partonomy Inference with Structured Hierarchical Predictive Learning](https://arxiv.org/abs/2512.04219)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review, Mar. 2026.
+Under review
 </div>
 </div>
 
@@ -94,7 +110,7 @@ Under review, Mar. 2026.
 
 **[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding](https://arxiv.org/abs/2512.04231)**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review, Dec. 2025.
+Under review
 </div>
 </div>
 
