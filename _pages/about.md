@@ -28,7 +28,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 # News
 - *2025.07*: &nbsp;🎉🎉 Our work CRAFT is accepted by NeSy2025.
 - *2025.06*: &nbsp;🎉🎉 Our work EASE is accepted by RA-L.
-- *2025.06*: &nbsp;🎉🎉 I presented a paper at the Vision-based Assistants in the Real-World Workshop, CVPR. 
+- *2025.06*: &nbsp;🎉🎉 Presented at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
 # Publications 
 
