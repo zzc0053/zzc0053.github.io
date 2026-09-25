@@ -31,6 +31,40 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 - *2025.06*: &nbsp;🎉🎉 I presented a paper at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
 # Publications 
+
+<!-- === Paper 1 === -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RA-L 2025</div>
+      <img src='images/ease.png' alt="ease-paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](https://arxiv.org/abs/2506.17516)**  
+**Zhou Chen**, Sanjoy Kundu, Harsimran Baweja, Sathyanarayanan N. Aakur  
+*IEEE Robotics and Automation Letters (RA-L)*, 2025. _(Impact Factor: 4.6)_  
+[**Project Link**](https://saakur.github.io/Projects/EASE/index.html)
+</div>
+</div>
+
+<!-- === Paper 3 === -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NeSy 2025</div>
+      <img src='images/nesy2025_craft.png' alt="craft-paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[CRAFT: A Neuro-Symbolic Reasoning Framework for Visual Functional Affordance Grounding](https://arxiv.org/abs/2507.14426)**  
+**Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
+Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
+</div>
+</div>
+
 <!-- === Paper 5 === -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -65,38 +99,6 @@ Under review, Dec. 2025.
 </div>
 
 
-<!-- === Paper 3 === -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">NeSy 2025</div>
-      <img src='images/nesy2025_craft.png' alt="craft-paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[CRAFT: A Neuro-Symbolic Reasoning Framework for Visual Functional Affordance Grounding](https://arxiv.org/abs/2507.14426)**  
-**Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
-</div>
-</div>
-
-<!-- === Paper 1 === -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RA-L 2025</div>
-      <img src='images/ease.png' alt="ease-paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](https://arxiv.org/abs/2506.17516)**  
-**Zhou Chen**, Sanjoy Kundu, Harsimran Baweja, Sathyanarayanan N. Aakur  
-*IEEE Robotics and Automation Letters (RA-L)*, 2025. _(Impact Factor: 4.6)_  
-[**Project Link**](https://saakur.github.io/Projects/EASE/index.html)
-</div>
-</div>
 
 <!-- === Paper 2 === -->
 <div class='paper-box'>
