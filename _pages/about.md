@@ -70,7 +70,7 @@ Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">RA-L 2025</div> -->
-      <img src='images/FUSE_Arch.pdf' alt="parse-paper" width="100%">
+      <img src='images/FUSE_Arch.jpg' alt="parse-paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
