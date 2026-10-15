@@ -26,7 +26,8 @@ and my Bachelor’s degree in Computer Science and Technology from [Central Sout
 Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab](https://saakur.github.io/group.html) led by Dr. Aakur. My research focuses on Active Event Perception, Visual Affordance Grounding and Multimodal Open World Understanding in the context of computer vision for robotic applications.
 
 # News
-- *2025.07*: &nbsp;🎉🎉 Our work CRAFT is accepted by NeSy2025.
+- *2026.10*: &nbsp;🎉🎉 Our work CRAFT-E is accepted by WACV 2027.
+- *2025.07*: &nbsp;🎉🎉 Our work CRAFT is accepted by NeSy 2025.
 - *2025.06*: &nbsp;🎉🎉 Our work EASE is accepted by RA-L.
 - *2025.06*: &nbsp;🎉🎉 Presented at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
