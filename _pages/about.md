@@ -32,6 +32,22 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 
 # Publications 
 
+<!-- === Paper 4 === -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WACV 2027</div>
+      <img src='images/CRAFTE_Arch.png' alt="crafte-paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding](https://arxiv.org/abs/2512.04231)**  
+**Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027.
+</div>
+</div>
+
 <!-- === Paper 1 === -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -96,24 +112,6 @@ Under review
 Under review
 </div>
 </div>
-
-
-<!-- === Paper 4 === -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <!-- <div class="badge">RA-L 2025</div> -->
-      <img src='images/CRAFTE_Arch.png' alt="crafte-paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[CRAFT-E: A Neuro-Symbolic Framework for Embodied Affordance Grounding](https://arxiv.org/abs/2512.04231)**  
-**Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-Under review
-</div>
-</div>
-
 
 
 <!-- === Paper 2 === -->
